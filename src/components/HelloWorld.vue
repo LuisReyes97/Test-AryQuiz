@@ -2,6 +2,9 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
   </div>
+
+  <button type="button" class="btn btn-primary">Primary</button>
+
 </template>
 
 <script>
